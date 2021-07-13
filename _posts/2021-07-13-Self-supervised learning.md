@@ -2,6 +2,8 @@
 published: false
 ---
 
-## A New Post
+## Self - supervised learning
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+Models hungry for data, more bigger more hungrier
+
+
