@@ -34,3 +34,10 @@ Added a minimalist Contact page at `/contact/`, plus a post-submission thank-you
 The introduction now focuses on communication, scaling, and simulations in multi-agent systems, per the owner’s wording request. Historical publication details remain unchanged.
 
 The owner chose a free alternative to Berta’s Adelle Sans / Aktiv Grotesk combination. Lato is used for prose and headings, with Inter for navigation and metadata. Both fonts are self-hosted with their open licenses in `docs/assets/fonts/`. Lato is an approximation, not the same font as the reference.
+
+
+## Contact form refinement
+
+The owner requested a more polished, modern UI. The contact form now uses a compact pale panel with a thin border, 10px input corners, clear placeholders, visible labels, and a full-width send button. Introductory typography is larger and more confident. Navigation uses a quiet filled active state; publication resource links use small neutral buttons, and media uses restrained rounded corners.
+
+Contact validation is progressive enhancement: native constraints remain in the HTML, while `docs/contact/contact.js` adds inline errors, focus management, and a sending state. The destination and recipient activation requirement are unchanged. The owner’s email remains absent from visible page text and mailto links.
