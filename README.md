@@ -17,3 +17,8 @@ The current website is plain HTML, CSS, and JavaScript in `docs/`. GitHub Pages 
 Edit these files and push to the publishing branch to update the live site. Photos and videos load from their original external hosts.
 
 The earlier Jekyll website is preserved on the `master` branch.
+
+
+## Contact form
+
+`docs/contact/index.html` submits to FormSubmit and delivers messages to the owner’s Gmail inbox once the recipient activation link is confirmed. Default CAPTCHA protection and a hidden honeypot are enabled. The confirmation page is `docs/contact/thank-you/index.html`. An activation email is required for the recipient before the service delivers normal submissions. Form service documentation: https://formsubmit.co/documentation .

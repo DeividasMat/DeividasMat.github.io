@@ -25,3 +25,12 @@ Conference and social icon references: `docs/assets/logos/SOURCES.md`.
 Font stylesheet source: https://fonts.googleapis.com/css2?family=Inter:wght@400;500&display=swap . Font files are locally hosted; no Google Fonts request is needed when viewing the site. License source: https://github.com/google/fonts/blob/main/ofl/inter/OFL.txt .
 
 Existing interview and video imagery remains credited to its source in the page. None of the reference portfolio’s artwork is reused.
+
+
+## Contact and research focus
+
+Added a minimalist Contact page at `/contact/`, plus a post-submission thank-you page. The form posts to FormSubmit for mataciunasdeividas@gmail.com, retains default CAPTCHA protection, includes a honeypot, and relies on browser validation. FormSubmit requires recipient activation before delivery; inbox confirmation remains an owner step.
+
+The introduction now focuses on communication, scaling, and simulations in multi-agent systems, per the owner’s wording request. Historical publication details remain unchanged.
+
+The owner chose a free alternative to Berta’s Adelle Sans / Aktiv Grotesk combination. Lato is used for prose and headings, with Inter for navigation and metadata. Both fonts are self-hosted with their open licenses in `docs/assets/fonts/`. Lato is an approximation, not the same font as the reference.
