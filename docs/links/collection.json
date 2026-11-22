@@ -1,0 +1,524 @@
+[
+  {
+    "title": "LRT — DI ekspertas apie animacinio filmo skandalą",
+    "url": "https://www.lrt.lt/naujienos/laisvalaikis/13/3077275/di-ekspertas-apie-animacinio-filmo-skandala-pasirode-kaip-socialinis-eksperimentas",
+    "category": "News & interviews",
+    "source_number": 1,
+    "image": "https://www.lrt.lt/img/2026/10/12/2510385-440635-1287x836.jpg",
+    "retrieved": true,
+    "original_title": "DI ekspertas apie animacinio filmo skandalą: pasirodė kaip socialinis eksperimentas - LRT"
+  },
+  {
+    "title": "Lamų Slėnis — DI revoliucija",
+    "url": "https://lamuslenis.lt/2025/04/10/di-revoliucija/",
+    "category": "News & interviews",
+    "source_number": 2,
+    "image": null,
+    "retrieved": false,
+    "original_title": null
+  },
+  {
+    "title": "ISM University — My path into data and AI",
+    "url": "https://www.ism.lt/duomenu-analitikos-pradininkas-lietuvoje-deividas-mokiausi-700-valandu-per-metus/",
+    "category": "News & interviews",
+    "source_number": 3,
+    "image": null,
+    "retrieved": false,
+    "original_title": null
+  },
+  {
+    "title": "Delfi — My path into data and AI",
+    "url": "https://www.delfi.lt/mokslas/login/duomenu-analitikos-pradininkas-lietuvoje-deividas-mataciunas-mokiausi-700-valandu-per-metus-93537149",
+    "category": "News & interviews",
+    "source_number": 4,
+    "image": null,
+    "retrieved": false,
+    "original_title": null
+  },
+  {
+    "title": "Vilnius TechFusion — Sector Leaders Series",
+    "url": "https://vilniustechfusion.com/en/news/sector-leaders-series-meet-deividas-mataciunas/",
+    "category": "News & interviews",
+    "source_number": 5,
+    "image": null,
+    "retrieved": false,
+    "original_title": null
+  },
+  {
+    "title": "Medium — Could an AI write this article for me?",
+    "url": "https://medium.com/@constitute/could-an-ai-write-this-article-for-me-25fa5d409f74",
+    "category": "News & interviews",
+    "source_number": 6,
+    "image": "https://miro.medium.com/v2/resize:fit:1000/1*IG1-Wdd-PlYeE81NB4SJxA.png",
+    "retrieved": true,
+    "original_title": "Could an AI write this article for me? | by Constitute | Medium"
+  },
+  {
+    "title": "Delfi M360 — Dirbtinio intelekto, rinkodaros ir technologijų sinergija",
+    "url": "https://www.delfi.lt/m360/naujausi-straipsniai/dirbtinio-intelekto-rinkodaros-ir-technologiju-sinergija-apie-visa-tai-renginyje-vilniuje-94180637",
+    "category": "News & interviews",
+    "source_number": 7,
+    "image": null,
+    "retrieved": false,
+    "original_title": null
+  },
+  {
+    "title": "Verslo žinios — AI article (archive page)",
+    "url": "https://www.vz.lt/konkurencinga-lietuva?page=29",
+    "category": "News & interviews",
+    "source_number": 8,
+    "image": null,
+    "retrieved": false,
+    "original_title": null
+  },
+  {
+    "title": "LRT — Laida moksleiviams AI_biblioteka",
+    "url": "https://www.lrt.lt/naujienos/mokslas-ir-it/11/2274207/laida-moksleiviams-ai-biblioteka-kaip-dirbtinis-intelektas-keicia-musu-gyvenima",
+    "category": "News & interviews",
+    "source_number": 9,
+    "image": "https://www.lrt.lt/img/2024/05/16/1774495-123926-1287x836.jpg",
+    "retrieved": true,
+    "original_title": "Laida moksleiviams „AI_biblioteka“: kaip dirbtinis intelektas keičia mūsų gyvenimą? - LRT"
+  },
+  {
+    "title": "LRT — Labas rytas, Lietuva",
+    "url": "https://www.lrt.lt/mediateka/irasas/2000430017/labas-rytas-lietuva",
+    "category": "Television & podcasts",
+    "source_number": 10,
+    "image": "https://www.lrt.lt/img/2025/06/09/2094036-719475-1287x836.jpg",
+    "retrieved": true,
+    "original_title": "Labas rytas, Lietuva I d. - Mediateka - LRT"
+  },
+  {
+    "title": "31 minutė su Ilja Laurs — YouTube",
+    "url": "https://www.youtube.com/watch?v=YHyzEzlUggw",
+    "category": "Television & podcasts",
+    "source_number": 11,
+    "image": "https://i.ytimg.com/vi/YHyzEzlUggw/maxresdefault.jpg",
+    "retrieved": true,
+    "original_title": "31 minutė su Ilja Laurs: Deividas Matačiūnas - apie tai, ko (dar) nesuprantame DI pasaulyje | #31 - YouTube"
+  },
+  {
+    "title": "77.lt — Ilja Laurs ir Deividas Matačiūnas",
+    "url": "https://77.lt/c/tv/ilja-laurs/ilja-laurs-124-mataciunas-di-ribos",
+    "category": "Television & podcasts",
+    "source_number": 12,
+    "image": null,
+    "retrieved": false,
+    "original_title": null
+  },
+  {
+    "title": "Investube — Deividas Matačiūnas apie DI pasaulį",
+    "url": "https://investube.lt/p/31-minute-su-ilja-laurs-deividas-mataciunas-apie-tai-ko-dar-nesuprantame-di-pasaulyje-31/",
+    "category": "Television & podcasts",
+    "source_number": 13,
+    "image": null,
+    "retrieved": false,
+    "original_title": null
+  },
+  {
+    "title": "Delfi TV — LOGIN 2024 AI discussion",
+    "url": "https://www.delfi.lt/tv/konferencijos/login-2024/login-2024-deividas-mataciunas-rokas-jurkenas-antanas-bernatonis-lilijana-medelyte-adomas-rutkauskas-diskusija-kas-naujo-di-pasaulyje-96549441",
+    "category": "Television & podcasts",
+    "source_number": 14,
+    "image": null,
+    "retrieved": false,
+    "original_title": null
+  },
+  {
+    "title": "Žinių radijas — Du Bitai podcast",
+    "url": "https://www.youtube.com/watch?v=U0GC0ERo7rc",
+    "category": "Television & podcasts",
+    "source_number": 15,
+    "image": "https://i.ytimg.com/vi/U0GC0ERo7rc/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgSShFMA8=&rs=AOn4CLB4J59i9C8zw9tnv9dKVNR6SeTTdQ",
+    "retrieved": true,
+    "original_title": "„Du bitai“: Kodėl AI tep prastay kalba letūvyškai? Svečiuose – Deividas Matačiūnas - YouTube"
+  },
+  {
+    "title": "Du Bitai — Podcast archive",
+    "url": "https://dubitai.com/page/5/",
+    "category": "Television & podcasts",
+    "source_number": 16,
+    "image": null,
+    "retrieved": false,
+    "original_title": null
+  },
+  {
+    "title": "AI Masters Voice — Top 10 Challenges of LLMs, Part 1",
+    "url": "https://aimasters.agency/podcast/top-10-challenges-of-llms-part-1/",
+    "category": "Television & podcasts",
+    "source_number": 17,
+    "image": "https://aimasters.agency/47/wp-content/uploads/2024/03/AI-Masters-Voice-Podcast-E2.png",
+    "retrieved": true,
+    "original_title": "Top 10 Challenges of LLMs – Part 1 - AI Masters Agency"
+  },
+  {
+    "title": "AI Masters Voice — Top 10 Challenges of LLMs, Part 2",
+    "url": "https://aimasters.agency/podcast/top-10-challenges-of-llms-part-2/",
+    "category": "Television & podcasts",
+    "source_number": 18,
+    "image": null,
+    "retrieved": false,
+    "original_title": null
+  },
+  {
+    "title": "Episode 1 — Kas yra kas",
+    "url": "https://www.lrt.lt/mediateka/irasas/2000341231/ai-biblioteka-1-kas-yra-kas",
+    "category": "AI_biblioteka",
+    "source_number": 19,
+    "image": "https://www.lrt.lt/img/2024/05/17/1776204-832974-1287x836.png",
+    "retrieved": true,
+    "original_title": "AI_Biblioteka. #1 Kas yra kas - Mediateka - LRT"
+  },
+  {
+    "title": "Episode 2 — Ateitis čia ir dabar",
+    "url": "https://www.lrt.lt/mediateka/irasas/2000341235/ai-biblioteka-2-ateitis-cia-ir-dabar",
+    "category": "AI_biblioteka",
+    "source_number": 20,
+    "image": "https://www.lrt.lt/img/2024/05/17/1776205-478234-1287x836.png",
+    "retrieved": true,
+    "original_title": "AI_Biblioteka. #2 Ateitis čia ir dabar - Mediateka - LRT"
+  },
+  {
+    "title": "Episode 3 — Teisė ir atsakomybė",
+    "url": "https://www.lrt.lt/mediateka/irasas/2000341236/ai-biblioteka-3-teise-ir-atsakomybe",
+    "category": "AI_biblioteka",
+    "source_number": 21,
+    "image": "https://www.lrt.lt/img/2024/05/17/1776219-170606-1287x836.png",
+    "retrieved": true,
+    "original_title": "AI_Biblioteka. #3 Teisė ir atsakomybė - Mediateka - LRT"
+  },
+  {
+    "title": "Episode 5 — Žinios, kurios gydo",
+    "url": "https://www.lrt.lt/mediateka/irasas/2000341248/ai-biblioteka-5-zinios-kurios-gydo",
+    "category": "AI_biblioteka",
+    "source_number": 22,
+    "image": "https://www.lrt.lt/img/2024/05/17/1776244-157382-1287x836.png",
+    "retrieved": true,
+    "original_title": "AI_Biblioteka. #5 Žinios, kurios gydo - Mediateka - LRT"
+  },
+  {
+    "title": "Complete series archive (including episodes 4 and 6)",
+    "url": "https://www.lrt.lt/mediateka/video/ai-biblioteka",
+    "category": "AI_biblioteka",
+    "source_number": 23,
+    "image": null,
+    "retrieved": false,
+    "original_title": null
+  },
+  {
+    "title": "Global PIQA — arXiv",
+    "url": "https://arxiv.org/abs/2510.24081",
+    "category": "Research & resources",
+    "source_number": 24,
+    "image": null,
+    "retrieved": true,
+    "original_title": "[2510.24081] Global PIQA: Evaluating Commonsense Reasoning Across 100+ Languages and Cultures"
+  },
+  {
+    "title": "Bridging the Data Provenance Gap Across Text, Speech and Video",
+    "url": "https://arxiv.org/abs/2412.17847",
+    "category": "Research & resources",
+    "source_number": 25,
+    "image": null,
+    "retrieved": true,
+    "original_title": "[2412.17847] Bridging the Data Provenance Gap Across Text, Speech and Video"
+  },
+  {
+    "title": "Consent in Crisis: The Rapid Decline of the AI Data Commons",
+    "url": "https://arxiv.org/abs/2407.14933",
+    "category": "Research & resources",
+    "source_number": 26,
+    "image": null,
+    "retrieved": true,
+    "original_title": "[2407.14933] Consent in Crisis: The Rapid Decline of the AI Data Commons"
+  },
+  {
+    "title": "Aya Dataset — ACL Anthology",
+    "url": "https://aclanthology.org/2024.acl-long.620/",
+    "category": "Research & resources",
+    "source_number": 27,
+    "image": null,
+    "retrieved": false,
+    "original_title": null
+  },
+  {
+    "title": "Aya Dataset — arXiv",
+    "url": "https://arxiv.org/abs/2402.06619",
+    "category": "Research & resources",
+    "source_number": 28,
+    "image": null,
+    "retrieved": false,
+    "original_title": null
+  },
+  {
+    "title": "ACL Anthology — Author profile",
+    "url": "https://aclanthology.org/people/deividas-mataciunas/unverified/",
+    "category": "Research & resources",
+    "source_number": 29,
+    "image": null,
+    "retrieved": false,
+    "original_title": null
+  },
+  {
+    "title": "CsAuthors — Research profile",
+    "url": "https://www.csauthors.net/deividas-mataciunas/",
+    "category": "Research & resources",
+    "source_number": 30,
+    "image": null,
+    "retrieved": false,
+    "original_title": null
+  },
+  {
+    "title": "CatalyzeX — Author profile",
+    "url": "https://www.catalyzex.com/author/Deividas%20Mataciunas",
+    "category": "Research & resources",
+    "source_number": 31,
+    "image": null,
+    "retrieved": false,
+    "original_title": null
+  },
+  {
+    "title": "Global PIQA — GitHub repository",
+    "url": "https://github.com/mrlbenchmarks/global-piqa",
+    "category": "Research & resources",
+    "source_number": 32,
+    "image": "https://opengraph.githubassets.com/87d139cb1fcf5e124b6fd97c5bb5af4500e32ddafc715115d8f34b1e62697a00/mrlbenchmarks/global-piqa",
+    "retrieved": true,
+    "original_title": "GitHub - mrlbenchmarks/global-piqa: Global PIQA: Evaluating Physical Commonsense Reasoning Across 100+ Languages and Cultures · GitHub"
+  },
+  {
+    "title": "Groceryshop 2026 — Speaker profile",
+    "url": "https://groceryshop.com/speaker-list/david-mataciunas",
+    "category": "Conferences & events",
+    "source_number": 33,
+    "image": null,
+    "retrieved": false,
+    "original_title": null
+  },
+  {
+    "title": "Stripe Developer Meetup SF — Luma",
+    "url": "https://luma.com/ntusn7f5",
+    "category": "Conferences & events",
+    "source_number": 34,
+    "image": null,
+    "retrieved": false,
+    "original_title": null
+  },
+  {
+    "title": "Stripe Developer Meetup — GarysGuide",
+    "url": "https://www.garysguide.com/events/q76036i/Stripe-Developer-Meetup",
+    "category": "Conferences & events",
+    "source_number": 35,
+    "image": null,
+    "retrieved": false,
+    "original_title": null
+  },
+  {
+    "title": "Stripe Developer Meetup — Brouky",
+    "url": "https://brouky.tech/events/stripe-developer-meetup-san-francisco-september-2026-2026-09-22",
+    "category": "Conferences & events",
+    "source_number": 36,
+    "image": null,
+    "retrieved": false,
+    "original_title": null
+  },
+  {
+    "title": "LOGIN 2026 — Speakers",
+    "url": "https://login.delfi.lt/pranesejai/?lang=en",
+    "category": "Conferences & events",
+    "source_number": 37,
+    "image": null,
+    "retrieved": false,
+    "original_title": null
+  },
+  {
+    "title": "LOGIN 2026 — Broadcast archive",
+    "url": "https://login.delfi.lt/transliacija",
+    "category": "Conferences & events",
+    "source_number": 38,
+    "image": null,
+    "retrieved": false,
+    "original_title": null
+  },
+  {
+    "title": "Pardavimų Formulė — Conference page",
+    "url": "https://pardavimuformule.lt/titulinis2023/",
+    "category": "Conferences & events",
+    "source_number": 39,
+    "image": null,
+    "retrieved": false,
+    "original_title": null
+  },
+  {
+    "title": "PyCon Lithuania 2021 — Speaker profile",
+    "url": "https://pycon.lt/2021/speakers/deividas-mataciunas-2021",
+    "category": "Conferences & events",
+    "source_number": 40,
+    "image": null,
+    "retrieved": false,
+    "original_title": null
+  },
+  {
+    "title": "Tyrėjų akademija — School AI lecture",
+    "url": "https://v.girzado-progimnazija.lt/lt/naujienos/steam/2024/04/respublikinis-3-4-klasiu-mokiniu-renginys-tyreju-akademija-2024-2024-04-21-04-30",
+    "category": "Conferences & events",
+    "source_number": 41,
+    "image": null,
+    "retrieved": false,
+    "original_title": null
+  },
+  {
+    "title": "M11 Labs — Blog author/co-founder appearance",
+    "url": "https://m11.ai/blog/low-trust-in-ecommerce",
+    "category": "Profiles & projects",
+    "source_number": 42,
+    "image": "https://framerusercontent.com/images/8Uvo8C5JNsgVD8FQIcN280yAdhA.png?width=2048&height=1152",
+    "retrieved": true,
+    "original_title": "Trust in e-commerce is at an all time low. - Thinking Big by M11"
+  },
+  {
+    "title": "Stackforce — David Mataciunas profile",
+    "url": "https://www.stackforce.co/talent/david-mataciunas-ceo-69c8b95c122fe84675da7d26",
+    "category": "Profiles & projects",
+    "source_number": 43,
+    "image": null,
+    "retrieved": false,
+    "original_title": null
+  },
+  {
+    "title": "The Org — Turing College",
+    "url": "https://theorg.com/org/turing-college/person/deividas-mataciunas",
+    "category": "Profiles & projects",
+    "source_number": 44,
+    "image": null,
+    "retrieved": false,
+    "original_title": null
+  },
+  {
+    "title": "SmartCourseHub — Expert/instructor listing",
+    "url": "https://smartcoursehub.com/",
+    "category": "Profiles & projects",
+    "source_number": 45,
+    "image": null,
+    "retrieved": false,
+    "original_title": null
+  },
+  {
+    "title": "Rekvizitai — AQ22 director profile",
+    "url": "https://rekvizitai.vz.lt/imone/dirbtinai/vadovas/",
+    "category": "Profiles & projects",
+    "source_number": 46,
+    "image": null,
+    "retrieved": false,
+    "original_title": null
+  },
+  {
+    "title": "Product Hunt — OpenMarket launch",
+    "url": "https://www.producthunt.com/products/openmarket?launch=openmarket",
+    "category": "Profiles & projects",
+    "source_number": 47,
+    "image": null,
+    "retrieved": false,
+    "original_title": null
+  },
+  {
+    "title": "Product Hunt — OpenMarket discussion",
+    "url": "https://www.producthunt.com/p/openmarket/we-d-love-your-feedback-on-openmarket",
+    "category": "Profiles & projects",
+    "source_number": 48,
+    "image": null,
+    "retrieved": false,
+    "original_title": null
+  },
+  {
+    "title": "Goodpods — Du Bitai episode",
+    "url": "https://goodpods.com/podcasts/du-bitai-329772/111-kod%C4%97l-ai-tep-prastay-kalba-let%C5%ABvy%C5%A1kai-sve%C4%8Diuose-deividas-mata%C4%8Di%C5%ABna-48122175",
+    "category": "Other mentions",
+    "source_number": 49,
+    "image": null,
+    "retrieved": false,
+    "original_title": null
+  },
+  {
+    "title": "Listen Notes — Du Bitai episode",
+    "url": "https://www.listennotes.com/podcasts/du-bitai/111-kod%C4%97l-ai-tep-prastay-o1ge0VNfSxb/",
+    "category": "Other mentions",
+    "source_number": 50,
+    "image": null,
+    "retrieved": false,
+    "original_title": null
+  },
+  {
+    "title": "Delfi — Deividas Matačiūnas topic page",
+    "url": "https://www.delfi.lt/temos/deividas-mataciunas/",
+    "category": "Other mentions",
+    "source_number": 51,
+    "image": null,
+    "retrieved": false,
+    "original_title": null
+  },
+  {
+    "title": "AI Connections",
+    "url": "https://aiconnections.substack.com/",
+    "category": "Associated links",
+    "source_number": null,
+    "image": null,
+    "retrieved": false,
+    "original_title": null
+  },
+  {
+    "title": "Private Credit Pulse",
+    "url": "https://privatecreditpulse.substack.com/",
+    "category": "Associated links",
+    "source_number": null,
+    "image": null,
+    "retrieved": false,
+    "original_title": null
+  },
+  {
+    "title": "GitHub",
+    "url": "https://github.com/DeividasMat",
+    "category": "Associated links",
+    "source_number": null,
+    "image": null,
+    "retrieved": false,
+    "original_title": null
+  },
+  {
+    "title": "Hugging Face",
+    "url": "https://huggingface.co/DeividasM",
+    "category": "Associated links",
+    "source_number": null,
+    "image": null,
+    "retrieved": false,
+    "original_title": null
+  },
+  {
+    "title": "Hugging Face papers",
+    "url": "https://huggingface.co/DeividasM/activity/papers",
+    "category": "Associated links",
+    "source_number": null,
+    "image": null,
+    "retrieved": false,
+    "original_title": null
+  },
+  {
+    "title": "Substack recommendations",
+    "url": "https://aiconnections.substack.com/recommendations",
+    "category": "Associated links",
+    "source_number": null,
+    "image": null,
+    "retrieved": false,
+    "original_title": null
+  },
+  {
+    "title": "Innohub AI Association archive",
+    "url": "https://innohub.fi/lt/youtube/artificial-intelligence-association-of-lithuania",
+    "category": "Associated links",
+    "source_number": null,
+    "image": null,
+    "retrieved": false,
+    "original_title": null
+  }
+]
