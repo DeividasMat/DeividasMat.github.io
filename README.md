@@ -22,3 +22,5 @@ The earlier Jekyll website is preserved on the `master` branch.
 ## Contact form
 
 `docs/contact/index.html` submits to FormSubmit and delivers messages to the owner’s Gmail inbox once the recipient activation link is confirmed. Default CAPTCHA protection and a hidden honeypot are enabled. The confirmation page is `docs/contact/thank-you/index.html`. An activation email is required for the recipient before the service delivers normal submissions. Form service documentation: https://formsubmit.co/documentation .
+
+When changing `docs/styles.css`, update its `?v=` content hash in every HTML stylesheet link so returning visitors receive the new styles without stale CDN/browser cache.
